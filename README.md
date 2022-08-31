@@ -1,1 +1,1 @@
-a repository for sytem engineering and devops
+a repository for system engineering and devops
